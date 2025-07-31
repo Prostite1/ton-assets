@@ -1,0 +1,12 @@
+address: EQDV2PXPTGe60fDSXseYyKH0YRID3MQMgV-wI-2YCVEmVAR3
+name: RALPH BANK
+symbol: RPLBANK
+decimals: 9
+description: |
+  Ralph Bank — крипто-экосистема для новых финансов и кайфа. Основано на TON.
+image: logo.png
+websites:
+  - https://t.me/ralphbank
+social:
+  - type: telegram
+    url: https://t.me/ralphbank
